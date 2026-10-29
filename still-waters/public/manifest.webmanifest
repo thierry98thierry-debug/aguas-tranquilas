@@ -1,0 +1,10 @@
+{
+  "name": "Águas Tranquilas",
+  "short_name": "Águas",
+  "description": "Sua oração diária, em paz.",
+  "start_url": "/app",
+  "display": "standalone",
+  "background_color": "#e7edee",
+  "theme_color": "#b36b12",
+  "icons": []
+}
